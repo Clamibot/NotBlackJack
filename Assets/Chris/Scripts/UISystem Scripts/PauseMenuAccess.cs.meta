@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2fa715c0668d1de47a20ddbab94a3f84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseResumeButton: {instanceID: 0}
+  - play: {fileID: 4530770355093785710, guid: 6e6c2703b683022418bc9817fea94e67, type: 3}
+  - pause: {fileID: 1786246863626547964, guid: 6e6c2703b683022418bc9817fea94e67, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

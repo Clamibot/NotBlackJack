@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: 9471d06c0619f9a409359d9b5320d6d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1611339392560397597
+    second: FBI_walk_cycle_0
+  - first:
+      213: -3145605902212890294
+    second: FBI_walk_cycle_1
+  - first:
+      213: 5311936229720659778
+    second: FBI_walk_cycle_2
+  - first:
+      213: -4977990238482266282
+    second: FBI_walk_cycle_3
+  - first:
+      213: -4950901048851106761
+    second: FBI_walk_cycle_4
+  - first:
+      213: 3061661976480422776
+    second: FBI_walk_cycle_5
+  - first:
+      213: 7805411506772227889
+    second: FBI_walk_cycle_6
+  - first:
+      213: 6018922889211754789
+    second: FBI_walk_cycle_7
+  - first:
+      213: -476951573614761648
+    second: FBI_walk_cycle_8
+  - first:
+      213: 3565657217640507335
+    second: FBI_walk_cycle_9
+  - first:
+      213: 8719563456821739955
+    second: FBI_walk_cycle_10
+  - first:
+      213: -1002736976067396817
+    second: FBI_walk_cycle_11
+  - first:
+      213: 8057035265001721756
+    second: FBI_walk_cycle_12
+  - first:
+      213: -6588184827085035729
+    second: FBI_walk_cycle_13
+  - first:
+      213: 4973882896259206860
+    second: FBI_walk_cycle_14
+  - first:
+      213: 4632529097812458630
+    second: FBI_walk_cycle_15
+  - first:
+      213: -7244508438850549611
+    second: FBI_walk_cycle_16
+  - first:
+      213: 7151983147712994002
+    second: FBI_walk_cycle_17
+  - first:
+      213: 3499349228408761624
+    second: FBI_walk_cycle_18
+  - first:
+      213: -6601497640966251934
+    second: FBI_walk_cycle_19
+  - first:
+      213: -6980272696625416720
+    second: FBI_walk_cycle_20
+  - first:
+      213: -4002679835359270060
+    second: FBI_walk_cycle_21
+  - first:
+      213: -711897381544558511
+    second: FBI_walk_cycle_22
+  - first:
+      213: 8498313946338426817
+    second: FBI_walk_cycle_23
+  - first:
+      213: 3915649993716408852
+    second: FBI_walk_cycle_24
+  - first:
+      213: -5972358450053911186
+    second: FBI_walk_cycle_25
+  - first:
+      213: -5036024097858233405
+    second: FBI_walk_cycle_26
+  - first:
+      213: 7098263122844539870
+    second: FBI_walk_cycle_27
+  - first:
+      213: -8302410530153313986
+    second: FBI_walk_cycle_28
+  - first:
+      213: -7746119079006599755
+    second: FBI_walk_cycle_29
+  - first:
+      213: 4077952039875592959
+    second: FBI_walk_cycle_30
+  - first:
+      213: 1549637377187214764
+    second: FBI_walk_cycle_31
+  - first:
+      213: -7291062093401150620
+    second: FBI_walk_cycle_32
+  - first:
+      213: -942436871765373837
+    second: FBI_walk_cycle_33
+  - first:
+      213: -3371454398800354981
+    second: FBI_walk_cycle_34
+  - first:
+      213: 7151996909990569224
+    second: FBI_walk_cycle_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FBI_walk_cycle_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5d18db533e94eed96f3bed1d15f23a
+      internalID: 1611339392560397597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09307beac11c748c0baa7eeee7c0e2dd
+      internalID: -3145605902212890294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8894a3b9fe56a47b89e85a9534d82f7e
+      internalID: 5311936229720659778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520811e18e4f0411888e95066c02b920
+      internalID: -4977990238482266282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 194
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ee1fae2c8c452e83064ea3da0e4f2
+      internalID: -4950901048851106761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a6ef34ce8474d2c99a4a3e2783c92d
+      internalID: 3061661976480422776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819e7c2f30dc43b18749563dacf6110
+      internalID: 7805411506772227889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 193
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8370be1e23460bb8f6028974d3307
+      internalID: 6018922889211754789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 194
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a037a1c320c034e6d98ab58e42b92ca8
+      internalID: -476951573614761648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 130
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb502455a264094b8c8a384be21f98
+      internalID: 3565657217640507335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 130
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea17beaaabc474cb5cef47c4aab29d
+      internalID: 8719563456821739955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 131
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a985e30423848a1b33d09d420058b8
+      internalID: -1002736976067396817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 131
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4da8aa5a8284f5bb94a424d110ffec
+      internalID: 8057035265001721756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93467fbe920248ef9a608a16deb87ce
+      internalID: -6588184827085035729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ca4865cf3647d2bd3af60e929fee4
+      internalID: 4973882896259206860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f063a28b89e374aed9951b983132a5c3
+      internalID: 4632529097812458630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea0ce048c630482ba4c81c667ad08b5
+      internalID: -7244508438850549611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 130
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5beed9e511a84642a0aea84c7ac79ce
+      internalID: 7151983147712994002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84828807d7fa9454f976c8b461319e1a
+      internalID: 3499349228408761624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1e9071f7cb418ca1f8f6172572b97
+      internalID: -6601497640966251934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ccd0f0ee5f0442f9b86d9097bc1b2d
+      internalID: -6980272696625416720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490177dcd1ae459b956e0b5b38f4d02
+      internalID: -4002679835359270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 65
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c103a3effd34ad4b1337b2ff164482
+      internalID: -711897381544558511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13e3e7322d7494595500b16777182f
+      internalID: 8498313946338426817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a1c07e058294e87861b93c7485a3f6
+      internalID: 3915649993716408852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860fa23f2ad7e4676904fe5f531eb6ff
+      internalID: -5972358450053911186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 65
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b791aad28a58841289b455ca7cd0bed5
+      internalID: -5036024097858233405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f39be6e9df4d26a6b9054dcd9e7e0
+      internalID: 7098263122844539870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde7531864884bce8b66917bc48db22
+      internalID: -8302410530153313986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c63cb9643804d5b99b1541827ce64c
+      internalID: -7746119079006599755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9324603cfe24026a82d90b93608ac3
+      internalID: 4077952039875592959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bee6eff95a4424eb342647682ececb
+      internalID: 1549637377187214764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810baad8b7354564841ceef2892d60b
+      internalID: -7291062093401150620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926aeae5071ec4b4c99d76485f83d604
+      internalID: -942436871765373837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3cd210cf12a46d6b09e0993f3e8ca6
+      internalID: -3371454398800354981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FBI_walk_cycle_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf0aff4444f48c3b0f4c1ecaa22660
+      internalID: 7151996909990569224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9990b7cf58fb4b6890e11b7e99b53ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

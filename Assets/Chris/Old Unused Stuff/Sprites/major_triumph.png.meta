@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: f096cb6fad87db943ac55d36d69fd7da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3936320755621536831
+    second: major_triumph_0
+  - first:
+      213: -4346737400651422122
+    second: major_triumph_1
+  - first:
+      213: -3131033240783035481
+    second: major_triumph_2
+  - first:
+      213: 245528089343433625
+    second: major_triumph_3
+  - first:
+      213: -4297349307560777926
+    second: major_triumph_4
+  - first:
+      213: -3499233019670336956
+    second: major_triumph_5
+  - first:
+      213: 2717524532804796531
+    second: major_triumph_6
+  - first:
+      213: -2763904836721439897
+    second: major_triumph_7
+  - first:
+      213: 5579125569237220574
+    second: major_triumph_8
+  - first:
+      213: 7265516626370190937
+    second: major_triumph_9
+  - first:
+      213: 2163294954375054745
+    second: major_triumph_10
+  - first:
+      213: 3711848701553229346
+    second: major_triumph_11
+  - first:
+      213: 4690260581294580968
+    second: major_triumph_12
+  - first:
+      213: -4802104971604155410
+    second: major_triumph_13
+  - first:
+      213: -450555754298647805
+    second: major_triumph_14
+  - first:
+      213: 5775126602011805490
+    second: major_triumph_15
+  - first:
+      213: 5992466257155234820
+    second: major_triumph_16
+  - first:
+      213: 5312286455893707928
+    second: major_triumph_17
+  - first:
+      213: 4545072788069277324
+    second: major_triumph_18
+  - first:
+      213: -2588693157292901953
+    second: major_triumph_19
+  - first:
+      213: 8788723350143526253
+    second: major_triumph_20
+  - first:
+      213: -6317471996494170664
+    second: major_triumph_21
+  - first:
+      213: -60144620941307382
+    second: major_triumph_22
+  - first:
+      213: 8897887679770072533
+    second: major_triumph_23
+  - first:
+      213: 522115207245737895
+    second: major_triumph_24
+  - first:
+      213: 2892033268730521831
+    second: major_triumph_25
+  - first:
+      213: 2917103189362130057
+    second: major_triumph_26
+  - first:
+      213: -2644018966769598236
+    second: major_triumph_27
+  - first:
+      213: 7700123860072467369
+    second: major_triumph_28
+  - first:
+      213: 1472322525979731443
+    second: major_triumph_29
+  - first:
+      213: -104566436511583833
+    second: major_triumph_30
+  - first:
+      213: 4155734045261279047
+    second: major_triumph_31
+  - first:
+      213: -2108844582453063699
+    second: major_triumph_32
+  - first:
+      213: -2343963107977384073
+    second: major_triumph_33
+  - first:
+      213: -6028354084903548912
+    second: major_triumph_34
+  - first:
+      213: 9009732198432309862
+    second: major_triumph_35
+  - first:
+      213: 5059765858308063862
+    second: major_triumph_36
+  - first:
+      213: -2603445156188753862
+    second: major_triumph_37
+  - first:
+      213: 4715078729525273024
+    second: major_triumph_38
+  - first:
+      213: 4460991806978255831
+    second: major_triumph_39
+  - first:
+      213: 5277926802790139197
+    second: major_triumph_40
+  - first:
+      213: -6956349905908299856
+    second: major_triumph_41
+  - first:
+      213: 8496837934653244013
+    second: major_triumph_42
+  - first:
+      213: -8154784062121732594
+    second: major_triumph_43
+  - first:
+      213: -899413516277832186
+    second: major_triumph_44
+  - first:
+      213: -5061409360919229206
+    second: major_triumph_45
+  - first:
+      213: -1200481295068485362
+    second: major_triumph_46
+  - first:
+      213: 5343879038517500232
+    second: major_triumph_47
+  - first:
+      213: -3027930006079303897
+    second: major_triumph_48
+  - first:
+      213: 6820809682604569767
+    second: major_triumph_49
+  - first:
+      213: 1120291321464461241
+    second: major_triumph_50
+  - first:
+      213: -5270492776803921084
+    second: major_triumph_51
+  - first:
+      213: 5350999651881627523
+    second: major_triumph_52
+  - first:
+      213: 586386888540703614
+    second: major_triumph_53
+  - first:
+      213: 1351947436340797159
+    second: major_triumph_54
+  - first:
+      213: -8981312350594707784
+    second: major_triumph_55
+  - first:
+      213: -3803251072146067676
+    second: major_triumph_56
+  - first:
+      213: 222604541926782817
+    second: major_triumph_57
+  - first:
+      213: 8606629705351638996
+    second: major_triumph_58
+  - first:
+      213: 3420011030833061322
+    second: major_triumph_59
+  - first:
+      213: 5011965318514969367
+    second: major_triumph_60
+  - first:
+      213: 3145559234701804163
+    second: major_triumph_61
+  - first:
+      213: 3968712390900128465
+    second: major_triumph_62
+  - first:
+      213: 8776329255196484873
+    second: major_triumph_63
+  - first:
+      213: 6304544040964675008
+    second: major_triumph_64
+  - first:
+      213: 2052669764229505989
+    second: major_triumph_65
+  - first:
+      213: 7026492529176337343
+    second: major_triumph_66
+  - first:
+      213: -225889703975804801
+    second: major_triumph_67
+  - first:
+      213: 1003803333217009124
+    second: major_triumph_68
+  - first:
+      213: 4987461303651407074
+    second: major_triumph_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: major_triumph_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87e52c348cc0b545967b3729a334175
+      internalID: 3936320755621536831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3d3f0a07bf2414f8f170745e28d77a
+      internalID: -4346737400651422122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd2cf219bec3840b0e96c910c251f2
+      internalID: -3131033240783035481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36abf8c6f3a3f140acf9fa7d7d0990e
+      internalID: 245528089343433625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c03c92ca16e4342a42b7c15a23912a
+      internalID: -4297349307560777926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548c2891eb08e245beabd905670a482
+      internalID: -3499233019670336956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc675df3497bc04db3dce9855209359
+      internalID: 2717524532804796531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1218
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560031a2762c26f419cb521f611ba6e8
+      internalID: -2763904836721439897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605a5607c0b5634588bae50cfa3b7cf
+      internalID: 5579125569237220574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1218
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ce12e289e5e24a87eeb236caadae9
+      internalID: 7265516626370190937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff73c191c8869d4fbc5db4fc982fea2
+      internalID: 2163294954375054745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde4c2aa37f8524f969b9aae82824c0
+      internalID: 3711848701553229346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685df5d51306964092c62715bba982f
+      internalID: 4690260581294580968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac92741d2cdb341af479d8663b0e1e
+      internalID: -4802104971604155410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869ca7866236b848be19a8b9384a684
+      internalID: -450555754298647805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744d80f5aae0a844594ff097d015edcc
+      internalID: 5775126602011805490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7886c4cac8414d92b6e2ac09bb402
+      internalID: 5992466257155234820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9a8975b1bfd24989ec47b5cef9fe3
+      internalID: 5312286455893707928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f868cc55c10afdb49823fd99ea4bffed
+      internalID: 4545072788069277324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa65040c9408624699f6776608564d9
+      internalID: -2588693157292901953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e576ab54e812f4dbe01b166f1513cd
+      internalID: 8788723350143526253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3378f8481c5a9954e80fbb98c03b722f
+      internalID: -6317471996494170664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7c171c73036204892553787848daf3
+      internalID: -60144620941307382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1090
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a360aae84e71f49b455c0450ce1a1e
+      internalID: 8897887679770072533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8453b17803fc4e8bcd265a50f9edd
+      internalID: 522115207245737895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bdef414327b5a43afa1b8b98238ae9
+      internalID: 2892033268730521831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d144584ff47cf54cb5b7a475b5cf7e6
+      internalID: 2917103189362130057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c81be74f9f8b54d84f372b15fa29ba
+      internalID: -2644018966769598236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 771
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af62de6cca906ca4da00ca715e26d942
+      internalID: 7700123860072467369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 771
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f667bfe4fbdc184e917802c74da6361
+      internalID: 1472322525979731443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_30
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 770
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e0ab86c56415f46aed37fcc87b9289
+      internalID: -104566436511583833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 769
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca5c02ff69b7247932cbc23508ce4f
+      internalID: 4155734045261279047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 770
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f018c873153e4ab365a444ab67b93
+      internalID: -2108844582453063699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 771
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddfe491b25b9a84394b61f9136709d5
+      internalID: -2343963107977384073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_34
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 770
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dbd47adce811045b72a0118a44f7db
+      internalID: -6028354084903548912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 769
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abf1f1e8d18e74da2cb4c7952a848a
+      internalID: 9009732198432309862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_36
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 770
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6392a25c042c244e9f9861027bf9394
+      internalID: 5059765858308063862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 706
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751bd8a1151917428f1e2784f7aa388
+      internalID: -2603445156188753862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b221ea9dddcd9d241a06c55da27cfd37
+      internalID: 4715078729525273024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_39
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb58fa5dd272ab41ab612bdccfceb42
+      internalID: 4460991806978255831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 707
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9f9a7c41f6c64da30c0b66eec1380
+      internalID: 5277926802790139197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_41
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 706
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a2c57fbeb91e4384cb79593a9524c
+      internalID: -6956349905908299856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb96f5799c84664f8b07104af383111
+      internalID: 8496837934653244013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 706
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d78b711c9ac641b7113afca5a9228
+      internalID: -8154784062121732594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_44
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 706
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247723eb0cc45b4dad6f02d95c1704d
+      internalID: -899413516277832186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 706
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dcd3f572a7c574c87a97c6106c2a8a
+      internalID: -5061409360919229206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e14a9fbacfe64683f47e7a4928b02
+      internalID: -1200481295068485362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679776324c3db04a85e524e7773f362
+      internalID: 5343879038517500232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2263a9a1d75fe34a99beaed2d807189
+      internalID: -3027930006079303897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b4d7e0973721449a5b23c275d5bede
+      internalID: 6820809682604569767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd345dc8f29f604d9be5d107a106067
+      internalID: 1120291321464461241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e012176fb0b9842b5394dbc517e1c7
+      internalID: -5270492776803921084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d3378daab41946a577b67f5e20c3b
+      internalID: 5350999651881627523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed507b4a00cfd524b9a48eac25ee891d
+      internalID: 586386888540703614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_54
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f333078a68a0aa149b089b1cbceddc5c
+      internalID: 1351947436340797159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 578
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32003eb2106c75443978bc5c43d01c29
+      internalID: -8981312350594707784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d35c53bc5e3c7459a699a58ef72a47
+      internalID: -3803251072146067676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 579
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd08e222bed0a458f00ee2e24d12cc
+      internalID: 222604541926782817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 579
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faaf68a968c2254e825b76794559f11
+      internalID: 8606629705351638996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_59
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a429e99c32f7141aa04cebda39be29
+      internalID: 3420011030833061322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec440330f55735e42b44849d8009b39d
+      internalID: 5011965318514969367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 578
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8cbfbbd6b23146992ce1a003ed6ba
+      internalID: 3145559234701804163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 578
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d957ce684d0c6e147a7b2e00b95d88d9
+      internalID: 3968712390900128465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_63
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 578
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252330a99326702459967ea5223aea4d
+      internalID: 8776329255196484873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5853b8a9958fd34f8d6a3b875e6f3b1
+      internalID: 6304544040964675008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3f7bfd272bd464ea76f2002d35da02
+      internalID: 2052669764229505989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2137ddaedbe5a4081414eff6a6daff
+      internalID: 7026492529176337343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44ff88068c81040b00b89c2268c2eb
+      internalID: -225889703975804801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9db59d28b97b32408b1e1470af49068
+      internalID: 1003803333217009124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: major_triumph_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e4f053e91c8ac488f3613eedd319d4
+      internalID: 4987461303651407074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 39040a27c41491a4fb1126d2ee396a6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
