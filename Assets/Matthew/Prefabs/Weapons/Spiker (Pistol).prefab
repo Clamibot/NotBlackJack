@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &741394778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 741394779}
+  m_Layer: 0
+  m_Name: ProjectileSpawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &741394779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741394778}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.035, z: 0.082}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3289980094878590032}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &143042822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3295924032074839918}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd820a0641871fa489c8b24296e39e2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxClipAmmo: 16
+  currentAmmo: 16
+  totalAmmo: 64
+  fireRate: 0
+  reloadTime: 1
+  weaponName: Spiker
+  fireSound: {fileID: 8300000, guid: 0d7c62cdbb047984fa3096ab202748b4, type: 3}
+  reloadSound: {fileID: 8300000, guid: f6727888a13262d44acfcc216821d28b, type: 3}
+  dryFireSound: {fileID: 8300000, guid: b92a5aa5a4c174744b5b1ceb6d4b56bc, type: 3}
+  projectilePrefab: {fileID: 9168157040313986245, guid: 378579eb226da1a4c8c6804b7df4c043,
+    type: 3}
+  projectileSpawn: {fileID: 741394779}
+  projectileVelocity: 20
+  projectileDamage: 20
+  projectileLife: 1
+  timer: 0
+  timerReached: 1
+  reloadTimer: 0
+  reloading: 0
+  fire: 0
+--- !u!1001 &3294451007306520352
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1483023586467918, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_Name
+      value: Spiker (Pistol)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483023586467918, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa62d3a88784c0248a1776e0c4dbf767, type: 3}
+--- !u!1 &3295924032074839918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1483023586467918, guid: fa62d3a88784c0248a1776e0c4dbf767,
+    type: 3}
+  m_PrefabInstance: {fileID: 3294451007306520352}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3289980094878590032 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4616624329388912, guid: fa62d3a88784c0248a1776e0c4dbf767,
+    type: 3}
+  m_PrefabInstance: {fileID: 3294451007306520352}
+  m_PrefabAsset: {fileID: 0}
